@@ -1,5 +1,5 @@
 # Ecomsolutions - .Net dev coding assignment
-# The project represents Ecomsolutions - .Net dev coding assignment
+## The project represents Ecomsolutions - .Net dev coding assignment
 
 ## To run unit tests locally:
 
