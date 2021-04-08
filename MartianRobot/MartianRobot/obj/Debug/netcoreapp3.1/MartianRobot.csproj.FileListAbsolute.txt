@@ -1,0 +1,9 @@
+C:\Repos\martian-robot\MartianRobot\MartianRobot\bin\Debug\netcoreapp3.1\MartianRobot.deps.json
+C:\Repos\martian-robot\MartianRobot\MartianRobot\bin\Debug\netcoreapp3.1\MartianRobot.dll
+C:\Repos\martian-robot\MartianRobot\MartianRobot\bin\Debug\netcoreapp3.1\MartianRobot.pdb
+C:\Repos\martian-robot\MartianRobot\MartianRobot\obj\Debug\netcoreapp3.1\MartianRobot.csprojAssemblyReference.cache
+C:\Repos\martian-robot\MartianRobot\MartianRobot\obj\Debug\netcoreapp3.1\MartianRobot.AssemblyInfoInputs.cache
+C:\Repos\martian-robot\MartianRobot\MartianRobot\obj\Debug\netcoreapp3.1\MartianRobot.AssemblyInfo.cs
+C:\Repos\martian-robot\MartianRobot\MartianRobot\obj\Debug\netcoreapp3.1\MartianRobot.csproj.CoreCompileInputs.cache
+C:\Repos\martian-robot\MartianRobot\MartianRobot\obj\Debug\netcoreapp3.1\MartianRobot.dll
+C:\Repos\martian-robot\MartianRobot\MartianRobot\obj\Debug\netcoreapp3.1\MartianRobot.pdb
